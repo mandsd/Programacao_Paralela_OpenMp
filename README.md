@@ -1,0 +1,1 @@
+Exercícios Programação Paralela OpenMp
